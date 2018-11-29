@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AiLaTrieuPhu</string>
+    <string name="btnTrue">TRUE</string>
+    <string name="btnFalse">FALSE</string>
+    <string name="notifTrue">Chính Xác!</string>
+    <string name="notifFalse">Sai rồi! Chon lại</string>
+</resources>
